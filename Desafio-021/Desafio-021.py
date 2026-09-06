@@ -1,6 +1,7 @@
 import pygame
+
 pygame.mixer.init()
-pygame.mixer.music.load('musica/samurai.mp3.mpeg')
+pygame.mixer.music.load('Desafio-021/samurai.mp3')
 pygame.mixer.music.play()
 
 input('precione enter para sair')
