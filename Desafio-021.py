@@ -1,3 +1,5 @@
+# Desafio 21 - Reproduz um arquivo de áudio utilizando um módulo do Python.
+
 import pygame
 
 pygame.mixer.init()

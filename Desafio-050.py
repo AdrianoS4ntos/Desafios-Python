@@ -1,3 +1,5 @@
+# Desafio 50 - Lê seis números inteiros e calcula a soma apenas dos valores pares.
+
 soma = 0
 cont = 0 
 for num in range(1,7):

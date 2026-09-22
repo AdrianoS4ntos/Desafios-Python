@@ -1,3 +1,5 @@
+# Desafio 30 - Verifica se um número inteiro informado pelo usuário é par ou ímpar.
+
 nu = int(input('Digite um número: '))
 
 if nu % 2 == 0:

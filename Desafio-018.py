@@ -1,3 +1,5 @@
+# Desafio 18 - Calcula o seno, o cosseno e a tangente de um ângulo informado pelo usuário.
+
 from math import sin, cos, tan, radians
 angu = float(input('Digite o valor do  ângulo: '))
 rad = radians(angu)

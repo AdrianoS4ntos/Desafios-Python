@@ -1,3 +1,5 @@
+# Desafio 36 - Verifica se um empréstimo pode ser aprovado com base no valor da casa, salário e prazo de pagamento.
+
 casa = float(input('Qual é o valor da casa?: '))
 salario = float(input('Qual é o seu salário?: '))
 anos = int(input('Em quantos anos de financiamento?: '))

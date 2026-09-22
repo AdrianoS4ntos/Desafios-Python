@@ -1,3 +1,5 @@
+# Desafio 31 - Calcula o preço de uma viagem de acordo com a distância percorrida.
+
 cores = {'limpa':'\033[m',
          'sublinhado':'\033[4m',
          'negritoverde':'\033[1;32m'}

@@ -1,3 +1,5 @@
+# Desafio 23 - Separa um número de quatro dígitos em unidade, dezena, centena e milhar.
+
 n = input('Digite um número de 0 a 9999: ')
  
 unidade = n[3]

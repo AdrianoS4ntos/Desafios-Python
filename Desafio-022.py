@@ -1,3 +1,5 @@
+# Desafio 22 - Analisa um nome ou texto, identificando informações como quantidade de caracteres, letras e palavras.
+
 nome = str(input('Digite seu nome completo: ')).strip()
 
 print('Analisando seu nome... ')

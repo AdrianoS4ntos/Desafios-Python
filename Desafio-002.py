@@ -1,3 +1,5 @@
+# Desafio 02 - Recebe o dia, mês e ano de nascimento e exibe a data de forma personalizada.
+
 dia = input('Dia =')
 mês = input('Mês =')
 ano = input ('Ano =')

@@ -1,3 +1,5 @@
+# Desafio 46 - Realiza uma contagem regressiva de 10 até 0 com uma pausa entre os números.
+
 from time import sleep
 cores = {'limpa':'\033[m',
          'negritovermelho':'\033[1;31m'}

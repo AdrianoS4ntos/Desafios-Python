@@ -1,3 +1,5 @@
+# Desafio 43 - Calcula o IMC de uma pessoa e informa sua classificação de acordo com o resultado.
+
 peso = int(input('digite seu peso em (Kg): '))
 alt = float(input('Digite sua altura em (m): '))
 cores = {'limpa':'\033[m',

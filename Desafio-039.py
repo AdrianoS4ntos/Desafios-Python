@@ -1,3 +1,5 @@
+# Desafio 39 - Calcula a idade de uma pessoa e verifica sua situação em relação ao alistamento militar.
+
 from datetime import date
 jovem = int(input('Qual é seu ano de nascimento?: '))
 anoatual = date.today().year
@@ -17,3 +19,4 @@ elif idade == 18:
     print('{}VOCÊ TEM QUE SE ALISTAR ESSE ANO DE {} {}'.format(cores ['negritoroxo'], anoatual, cores ['limpa']))
 else:
     print('{}VOCÊ TINHA QUE TER SE ALISTADO A {} ANOS ATRÁS{}'.format(cores ['negritovermelho'],tinha, cores ['limpa']))
+    

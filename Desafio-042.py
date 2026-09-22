@@ -1,4 +1,5 @@
-'''melhorar o desafio 35'''
+# Desafio 42 - Verifica o tipo de triângulo formado a partir das medidas de seus lados.
+
 n1 = float(input('Primeiro segmento: '))
 n2 = float(input('Segundo segmento: '))
 n3 = float(input('Terceiro segmento: '))

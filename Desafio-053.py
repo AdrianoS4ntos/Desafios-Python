@@ -1,3 +1,5 @@
+# Desafio 53 - Verifica se uma frase pode ser lida da mesma forma de trás para frente.
+
 print('-='*15)
 print('VERIFICADOR DE PALÍNDROMO')
 print('-='*15)

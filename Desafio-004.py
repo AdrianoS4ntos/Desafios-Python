@@ -1,3 +1,5 @@
+# Desafio 04 - Recebe um valor e utiliza diferentes operações para identificar informações sobre ele.
+
 a = input('Digite algo:' )
 print('O tipo primitivo desse valor é', type(a))
 print('Só tem espaços? ', a.isspace())
@@ -8,7 +10,7 @@ print('Está em maiúsculas?', a.isupper())
 print('Está em minúsculas?', a.islower())
 print('Está capitalizada?', a.istitle())
 
-#OU#
+#OU
 
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Outro valor: '))        

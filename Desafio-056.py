@@ -1,3 +1,5 @@
+# Desafio 56 - Analisa nome, idade e sexo de quatro pessoas e apresenta diferentes informações sobre o grupo.
+
 somaidade = 0
 médiaidade = 0
 maioridadehomen = 0

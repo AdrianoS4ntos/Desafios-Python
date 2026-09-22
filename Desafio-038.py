@@ -1,3 +1,5 @@
+# Desafio 38 - Compara dois números e informa qual deles é maior ou se são iguais.
+
 n1 = int(input('Valor 1: '))
 n2 = int(input('Valor 2: '))
 

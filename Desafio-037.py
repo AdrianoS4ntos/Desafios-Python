@@ -1,3 +1,5 @@
+# Desafio 37 - Converte um número decimal para binário, octal ou hexadecimal conforme a opção escolhida.
+
 nu = int(input('Digite um número inteiro: '))
 print('Escolha uma das bases de conversão:\n [ 1 ] converter para BINÁRIO\n [ 2 ] converter para OCTAL\n [ 3 ] converter para HEXADECIMAL')
 opção = int(input('Sua opção: '))

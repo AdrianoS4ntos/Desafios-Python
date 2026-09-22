@@ -1,3 +1,5 @@
+# Desafio 54 - Analisa a idade de sete pessoas e contabiliza quantas são maiores e menores de idade.
+
 from datetime import date
 atual = date.today().year
 cores = {'limpa':'\033[m',

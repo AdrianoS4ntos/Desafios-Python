@@ -1,3 +1,5 @@
+# Desafio 28 - Gera um número aleatório e permite que o usuário tente adivinhar o número escolhido pelo computador.
+
 import random
 from time import sleep
 computador = random.randint(0, 5)
@@ -17,3 +19,4 @@ if jogador == computador:
     print('{}Você venceu :){}'.format(cores ['ciano'], cores ['limpa']))
 else:
     print('{}Você perdeu :(  eu pensei no número{} {}'.format(cores ['vermelho'], cores ['limpa'], computador))
+    

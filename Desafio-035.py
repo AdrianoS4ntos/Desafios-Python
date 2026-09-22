@@ -1,3 +1,5 @@
+# Desafio 35 - Verifica se três segmentos podem formar um triângulo.
+
 cores = {'limpa':'\033[m',
          'sublinhado':'\033[4m',
          'negritoverde':'\033[1;32m',

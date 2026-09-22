@@ -1,3 +1,5 @@
+# Desafio 55 - Lê os pesos de cinco pessoas e identifica o maior e o menor peso informado.
+
 maiorpeso = 0
 menorpeso = 0
 for p in range (1,6):

@@ -1,3 +1,5 @@
+# Desafio 13 - Calcula o novo salário de um funcionário após aplicar um reajuste percentual.
+
 salario = int(input('Digite o valor do seu salário: '))
 porcent = salario*0.15
 resul = salario+porcent

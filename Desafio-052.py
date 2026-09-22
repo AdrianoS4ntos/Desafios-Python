@@ -1,3 +1,5 @@
+# Desafio 52 - Verifica se os números informados são primos, analisando a quantidade de divisores.
+
 num = int(input('digite um número: '))
 
 tot = 0

@@ -1,17 +1,16 @@
-# Desafio 60 - Calcular o fatorial de um número informado pelo usuário,
-# mostrando o processo das multiplicações e o resultado final.
+# Desafio 60 - Calcula o fatorial de um número informado pelo usuário utilizando uma estrutura de repetição.
 
 num = int(input('Digite um número: '))
 
-original = num
-fatorial = num
-expressao = str(num)
+contador = num
+resultado = 1
+expressao = ('')
 
 # Reduz o número a cada repetição e acumula o resultado do fatorial.
-while fatorial > 1:
-    fatorial -= 1
-    num *= fatorial
-    expressao = expressao + ' x ' + str(fatorial)
+while contador >= 1:
+    resultado *= contador
+    expressao += contador
 
-print(f'O fatorial de {expressao} = {num}')
-print(f'{original}! = {num}')
+    contador -= 1
+
+print(expressao)

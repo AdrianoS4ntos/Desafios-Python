@@ -1,3 +1,5 @@
+# Desafio 41 - Classifica um atleta de acordo com sua idade.
+
 from datetime import date
 nas = int(input('Qual ano você nasceu?: '))
 ano_atual = date.today().year

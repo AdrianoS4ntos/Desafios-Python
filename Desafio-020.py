@@ -1,3 +1,5 @@
+# Desafio 20 - Recebe os nomes de quatro alunos e sorteia a ordem de apresentação dos trabalhos.
+
 import random
 aluno1 = input('Aluno 1: ')
 aluno2 = input('Aluno 2: ')

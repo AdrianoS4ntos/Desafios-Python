@@ -1,3 +1,4 @@
+# Desafio 33 - Recebe três números e identifica qual é o maior e qual é o menor.
 
 a = int(input('Primeiro número: '))
 b  = int(input('Segundo número: '))

@@ -1,3 +1,5 @@
+# Desafio 09 - Recebe um número e exibe sua tabuada de multiplicação.
+
 num = int(input('Qual número você quer ver sua tabuada?: '))
 print('-' * 12)
 print(f'{num} x{1:2} = {num*1}')

@@ -1,3 +1,5 @@
+# Desafio 11 - Calcula a quantidade de tinta necessária para pintar uma parede com base em suas dimensões.
+
 larg = float(input('Digite a largura da parede: '))
 altu = float(input('Digite a altura da sua parede: '))
 area = larg*altu

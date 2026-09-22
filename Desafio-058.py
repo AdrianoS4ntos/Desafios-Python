@@ -1,4 +1,4 @@
-#Melhorando o jogo do Desafio 28
+# Desafio 58 - Cria um jogo de adivinhação com número aleatório, contabilizando as tentativas e dando dicas.
 
 import random
 from time import sleep

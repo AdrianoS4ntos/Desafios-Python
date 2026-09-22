@@ -1,3 +1,5 @@
+# Desafio 34 - Calcula o novo salário de um funcionário de acordo com diferentes faixas salariais.
+
 salario = float(input('Qual o salário do funcionario? R$'))
 cores = {'limpa':'\033[m',
          'negritoroxo':'\033[1;35m',

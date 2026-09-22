@@ -1,6 +1,4 @@
-# Desafio 59 - Criar um menu de operações matemáticas que permita
-# ao usuário realizar diferentes operações com dois números,
-# trocar os números ou encerrar o programa.
+# Desafio 59 - Cria um menu interativo para realizar diferentes operações com dois números.
 
 num1 = float(input('Digite um número: '))
 num2 = float(input('Digite outro número: '))

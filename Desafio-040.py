@@ -1,3 +1,5 @@
+# Desafio 40 - Calcula a média de duas notas e classifica o aluno de acordo com o resultado.
+
 n1 = float(input('Nota 1: '))
 n2 = float(input('Nota 2: '))
 cores = {'limpa':'\033[m',

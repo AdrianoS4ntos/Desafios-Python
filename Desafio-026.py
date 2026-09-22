@@ -1,3 +1,5 @@
+# Desafio 26 - Identifica quantas vezes a letra "A" aparece em uma frase e suas primeiras e últimas ocorrências.
+
 frase = input('Digite uma frase: ').strip()
 
 minus = frase.lower()

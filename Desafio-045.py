@@ -1,3 +1,5 @@
+# Desafio 45 - Cria um jogo de Pedra, Papel e Tesoura entre o usuário e o computador.
+
 import random
 from time import sleep
 cores = {'limpa':'\033[m',

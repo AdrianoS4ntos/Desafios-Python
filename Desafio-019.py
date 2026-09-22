@@ -1,3 +1,5 @@
+# Desafio 19 - Recebe os nomes de quatro alunos e sorteia um deles para realizar uma tarefa.
+
 import random
 aluno1 = input('Aluno 1: ')
 aluno2 = input('Aluno 2: ')

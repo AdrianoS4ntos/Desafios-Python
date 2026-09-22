@@ -1,5 +1,7 @@
+# Desafio 51 - Lê o primeiro termo e a razão de uma PA e exibe seus 10 primeiros termos.
+
 print('=' *25)
-print('10 TERMOS DDE UMA PA')
+print('10 TERMOS DE UMA PA')
 print('=' *25)
 
 termo1 = int(input('digite um número de inicio: '))

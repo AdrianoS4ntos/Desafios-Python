@@ -1,3 +1,5 @@
+# Desafio 32 - Verifica se um determinado ano é bissexto.
+
 from datetime import date
 cores = {'limpa':'\033[m',
          'negritovermelho':'\033[1;31m',
