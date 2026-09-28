@@ -4,22 +4,20 @@ print('=' *25)
 print('10 TERMOS DE UMA PA')
 print('=' *25)
 
-termo1 = int(input('Digite um número de início: '))
-razao = int(input('Digite qual vai ser o número de progressão: '))
+primeiro = int(input('Digite o termo de início: '))
+razao = int(input('Razão da PA: '))
 
-termo = termo1
-
-for c in range (10):
-    print(termo) # Mostra o termo primeiro antes de realizar a conta
-    termo += razao
-
-mais = int(input('Quantos termos você quer a mais? '))
+termo = primeiro
+contador = 0
+total = 0 
+mais = 10 
 
 while mais != 0:
-    for c in range(mais):
-        print(termo)
+    total += mais
+    while contador < total:
+        print(f'{termo} -> ', end='')
         termo += razao
-
-    mais = int(input('Quantos termos você quer a mais? '))
-    
-print('FIM')
+        contador += 1
+    print('PAUSA')
+    mais = int(input('Quantos termos você quer mostrar a mais? '))
+print(f'Progressão com {contador} termos mostrados')

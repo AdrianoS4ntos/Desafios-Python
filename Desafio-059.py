@@ -10,23 +10,23 @@ limpar = '\033[m'
 while True:
     print(f'{roxo}Escolha uma das opções abaixo:{limpar}\n')
 
-    print('[1] somar')
-    print('[2] multiplicar')
-    print('[3] maior')
-    print('[4] novos números')
-    print('[5] sair do programa\n')
+    print('''    [1] somar
+    [2] multiplicar
+    [3] maior
+    [4] novos números
+    [5] sair do programa\n''')
 
     opcao = int(input(f'{roxo}Digite a opção desejada: {limpar}'))
 
 #SOMA
     if opcao == 1:
         soma = num1 + num2
-        print(f'A soma entre {num1} e {num2} é ={soma}')
+        print(f'O resultado de {num1} + {num2} é ={soma}')
 
 #MULTIPLICAÇÃO
     if opcao == 2:
         mult= num1 * num2
-        print(f' A multiplicação entre {num1} e {num2} é = {mult}')
+        print(f'O resultado de {num1} x {num2} é = {mult}')
 
 #MAIOR NÚMERO
     if opcao == 3:
@@ -45,6 +45,7 @@ while True:
 #SAIR DO PROGRAMA
     if opcao == 5:
         print('Finalizando o programa...')
+        print('Fim do programa.')
         break
 
 #OPCÃO INVÁLIDA
